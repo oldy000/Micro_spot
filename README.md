@@ -1,4 +1,4 @@
-# Mini_speck
+# Micro_spot
 A walking robot
 
 Component list:
