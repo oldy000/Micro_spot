@@ -11,9 +11,9 @@ Component list:
   
   "MICRO USB 5V 1A 18650 TP4056 Lithium Battery Charger Module" From Ebay x 2
   
-  "Buck dc step down converter 3A" from Ebay x 1
+  "Buck dc step down converter 3A" from Ebay x 1 for powering servos
   
-  Another 5V regulator, something like this: "AMS1117 3.3/5.0 DC-DC Step Down Power Supply Module 4.5V-7V Voltage Regulator" from Ebay x 1
+  Another 5V regulator, something like this: "AMS1117 3.3/5.0 DC-DC Step Down Power Supply Module 4.5V-7V Voltage Regulator" from Ebay x 1 for powering electronics
   
   "PCA9685 16 Channel 12-bit PWM Servo motor Driver I2C Module Robot Arduino MO" from Ebay x 1
   
