@@ -23,4 +23,4 @@ Component list:
  
   
   
-  
+  Top part is 3D printed from body2.stl which is uploaded here and the frame and legs are from EZ 3D Open Cat on Thingiverse.com.
